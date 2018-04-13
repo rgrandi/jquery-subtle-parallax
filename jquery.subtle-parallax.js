@@ -3,7 +3,10 @@
 /* Author: Richard Grandi - richard@oneltd.co.uk  */
 /* Usage: On any strip with a background-image    */
 /* Set to background-attachment: fixed;           */
+/*                                                */
+/* Version: 1.0.0                                 */
 /**************************************************/
+
 
 $.fn.subtle_parallax = function () {
   var strip = this,
